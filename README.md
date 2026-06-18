@@ -1,3 +1,4 @@
+run command npx live-server --port=55477 in gameswebsite to start.
 <p align="center"><img src="https://raw.githubusercontent.com/MonkeyGG2/monkeygg2.github.io/main/imgs/icon-256-256.png" height="200"></p>
 
 <div align="center">
